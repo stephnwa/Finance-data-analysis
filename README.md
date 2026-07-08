@@ -95,4 +95,8 @@ LinkedIn: linkedin.com/in/stephanie-livinus
 
 ## Dashboard Preview
 
-![Energy Transition Dashboard](images/dashboard.png)
+<img width="959" height="368" alt="Screenshot 2026-07-08 112759" src="https://github.com/user-attachments/assets/a2accf07-04d5-48f4-bef6-042d2a261524" />
+<img width="884" height="365" alt="Screenshot 2026-07-08 112933" src="https://github.com/user-attachments/assets/be32a4d7-6e60-4ae9-a2d7-beea56a9d261" />
+<img width="887" height="370" alt="Screenshot 2026-07-08 113013" src="https://github.com/user-attachments/assets/1dcfdc6c-c452-41c1-856d-2b04325eea5d" />
+
+
